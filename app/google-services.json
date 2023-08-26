@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422835422718",
+    "project_id": "chatsystem-7e39d",
+    "storage_bucket": "chatsystem-7e39d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422835422718:android:b523bc519b0426559e2caf",
+        "android_client_info": {
+          "package_name": "com.ncs.chatsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422835422718-kiv49h31r7s9irg8btahimfdauvq6sc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5L3_oDJmz9-VTjQSsRxh6YsB9og0pbY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422835422718-kiv49h31r7s9irg8btahimfdauvq6sc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
